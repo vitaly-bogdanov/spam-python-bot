@@ -1,0 +1,6 @@
+aiogram
+openpyxl
+telethon
+cryptg
+psycopg2-binary==2.8.5
+aioredis
